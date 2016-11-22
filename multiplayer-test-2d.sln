@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5D91B0F7-BC3D-DD81-9F02-632EF9EB91F8}") = "multiplayer-test-2d", "Assembly-CSharp.csproj", "{93378B08-D1B9-F15A-00AD-B6E5DFC5762E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93378B08-D1B9-F15A-00AD-B6E5DFC5762E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93378B08-D1B9-F15A-00AD-B6E5DFC5762E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93378B08-D1B9-F15A-00AD-B6E5DFC5762E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93378B08-D1B9-F15A-00AD-B6E5DFC5762E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
